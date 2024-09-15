@@ -16,6 +16,9 @@ Also added The google translation api here
 ## Sample images
 ![image](https://github.com/user-attachments/assets/b8a51e0a-ee40-4083-992a-b82ea93b1fd0)
 
+![image](https://github.com/user-attachments/assets/127734df-7740-4f8e-b824-78df33e78803)
+
+
 
 
 If you want to sell anything like cars, bikes, computers, gadgets, etc. then you can post an ad with complete details of the item. Olx Clone is a classifieds script that gives the best digital platform to sellers and buyers. It has made online shopping and selling of products easier and quicker. Using this product anyone can launch a robust classifieds website within minutes. Olx-Clone is a reliable JavaScript-based classifieds script developed in React and Firebase with mobile responsive design.
